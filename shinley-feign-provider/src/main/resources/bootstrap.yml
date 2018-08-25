@@ -1,8 +1,8 @@
 spring:
   cloud:
     config:
-      application: shinley-feign-privider  # 对应search-paths的占位符，和仓库下的文件夹名称
-      name: jdbc #需要从github上读取的资源名称，注意没有yml后缀名
+      application: shinley-feign-provider  # 对应search-paths的占位符，和仓库下的文件夹名称
+      name: jdbc,shinley-feign-provider #需要从github上读取的资源名称，注意没有yml后缀名. 如果使用search-paths按应用分目录，此处文件夹的名称和资源名称都要写
       profile: test   #本次访问的配置项
       label: master
       uri: http://configserver.com:3344  #本微服务启动后先去找3344号服务，通过SpringCloudConfig获取GitHub的服务地址

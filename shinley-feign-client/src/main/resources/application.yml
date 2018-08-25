@@ -2,19 +2,29 @@ server:
   port: 3377
 
 spring:
+  profiles:
+    active: test
   application:
     name: shinley-feign-client
 
-#eureka:
-#  client:
-#    registerWithEureka: false
-#    fetchRegistry: false
-
-
 eureka:
-    client:
-        service-url:
-            defaultZone: http://localhost:9000/eureka       # eureka服务
-    instance:
-        instance-id: shinley-feign-client   # 修改注册Id
-        prefer-ip-address: true               # 访问路径可以显示IP
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+
+
+#eureka:
+#    client:
+#        service-url:
+#            defaultZone: http://localhost:9000/eureka       # eureka服务
+#    instance:
+#        instance-id: shinley-feign-client   # 修改注册Id
+#        prefer-ip-address: true               # 访问路径可以显示IP
+
+
+feign:
+  provider:
+    url: http://localhost:3366
+
+server:
+  port: 3355
