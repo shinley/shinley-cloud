@@ -215,6 +215,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -226,112 +227,6 @@
             <path>
               <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shinley-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shinley-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="shinley-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -487,7 +382,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32915717" />
