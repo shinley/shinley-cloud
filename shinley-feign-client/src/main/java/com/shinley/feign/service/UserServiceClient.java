@@ -2,6 +2,7 @@ package com.shinley.feign.service;
 
 
 import com.shinley.cloud.entity.User;
+import com.shinley.feign.model.Person;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -10,4 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public interface UserServiceClient {
     @RequestMapping("/getUser")
     User getUser();
+
+    @RequestMapping("/getPerson")
+    Person getPerson();
 }

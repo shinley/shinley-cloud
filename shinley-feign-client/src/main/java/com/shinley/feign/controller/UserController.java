@@ -1,6 +1,7 @@
 package com.shinley.feign.controller;
 
 import com.shinley.cloud.entity.User;
+import com.shinley.feign.model.Person;
 import com.shinley.feign.service.UserServiceClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -19,6 +20,12 @@ public class UserController {
     public User findUser() {
         User user = userServiceClient.getUser();
         return user;
+    }
+
+    @RequestMapping("/person")
+    public Person findPerson() {
+        Person person = userServiceClient.getPerson();
+        return person;
     }
 
     @RequestMapping("/getDatasource")
