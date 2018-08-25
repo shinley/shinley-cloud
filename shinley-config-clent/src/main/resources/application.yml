@@ -1,0 +1,13 @@
+server:
+  port: 3355
+
+spring:
+  profiles:
+    active: test
+  application:
+    name: shinley-config-client
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false

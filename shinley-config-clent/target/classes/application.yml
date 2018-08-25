@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: test
+  server: 3355
+  application:
+    name: shinley-config-client
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
