@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:shinley/shinley-cloud-config.git
+          uri: git@github.com:shinley/shinley-config-repo.git
 
 eureka:
   client:
