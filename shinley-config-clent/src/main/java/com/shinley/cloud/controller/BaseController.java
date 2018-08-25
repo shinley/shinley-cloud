@@ -6,11 +6,19 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class BaseController {
-    @Value("${app.name}")
+//    @Value("${app.name}")
     private String appName;
+
+    @Value("${dataSource}")
+    private String dataSource;
 
     @RequestMapping("/test")
     public String getAppName() {
         return this.appName;
+    }
+
+    @RequestMapping("/getDatasource")
+    public String getDatasource() {
+        return this.dataSource;
     }
 }

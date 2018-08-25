@@ -9,7 +9,7 @@ spring:
       server:
         git:
           uri: git@github.com:shinley/shinley-config-repo.git
-
+          search-paths: '{application}'   # 客户端 要有 spring.cloud.config.application=应用名称(git仓库下的文件夹名称)
 eureka:
   client:
     registerWithEureka: false
