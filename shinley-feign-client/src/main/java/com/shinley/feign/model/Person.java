@@ -10,7 +10,6 @@ import java.io.Serializable;
 @AllArgsConstructor
 @Data
 public class Person implements Serializable {
-    private static final long serialVersionUID = 9000181780533977816L;
     private Integer pid;
     private String pname;
 }
