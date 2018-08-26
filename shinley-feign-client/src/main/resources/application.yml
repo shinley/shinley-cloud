@@ -22,9 +22,10 @@ eureka:
 #        prefer-ip-address: true               # 访问路径可以显示IP
 
 
+#feign:
+#  provider:
+#    url: http://localhost:3366
+
 feign:
   provider:
-    url: http://localhost:3366
-
-server:
-  port: 3355
+    url:

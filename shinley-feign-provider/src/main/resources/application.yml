@@ -8,6 +8,7 @@ spring:
     name: shinley-feign-provider
 
 # 当不注册到eureka上时，如下配置可以避免启动报错
+
 eureka:
   client:
     registerWithEureka: false
